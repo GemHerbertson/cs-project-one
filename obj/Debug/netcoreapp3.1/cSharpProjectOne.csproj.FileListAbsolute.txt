@@ -1,0 +1,10 @@
+/Users/codenation/Desktop/cSharpProjectOne/bin/Debug/netcoreapp3.1/cSharpProjectOne.deps.json
+/Users/codenation/Desktop/cSharpProjectOne/bin/Debug/netcoreapp3.1/cSharpProjectOne.runtimeconfig.json
+/Users/codenation/Desktop/cSharpProjectOne/bin/Debug/netcoreapp3.1/cSharpProjectOne.runtimeconfig.dev.json
+/Users/codenation/Desktop/cSharpProjectOne/bin/Debug/netcoreapp3.1/cSharpProjectOne.dll
+/Users/codenation/Desktop/cSharpProjectOne/bin/Debug/netcoreapp3.1/cSharpProjectOne.pdb
+/Users/codenation/Desktop/cSharpProjectOne/obj/Debug/netcoreapp3.1/cSharpProjectOne.csprojAssemblyReference.cache
+/Users/codenation/Desktop/cSharpProjectOne/obj/Debug/netcoreapp3.1/cSharpProjectOne.AssemblyInfoInputs.cache
+/Users/codenation/Desktop/cSharpProjectOne/obj/Debug/netcoreapp3.1/cSharpProjectOne.AssemblyInfo.cs
+/Users/codenation/Desktop/cSharpProjectOne/obj/Debug/netcoreapp3.1/cSharpProjectOne.dll
+/Users/codenation/Desktop/cSharpProjectOne/obj/Debug/netcoreapp3.1/cSharpProjectOne.pdb
